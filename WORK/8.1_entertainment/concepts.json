@@ -1,0 +1,36 @@
+{
+  "section": "",
+  "topic": "",
+  "author_group": "Top-manager team",
+  "members": [
+  ],
+  "concepts": [
+    {
+        "id": "WORKS/8.1_entertainment/фильм",
+        "description": "Статья рассказывает о понятии фильма.",
+        "lemmas": ["фильм", "жанр", "фантастика", "приключения", "фэнтези", "драма", "комедия", "ужасы", "триллер"],
+        "name": "Фильм",
+        "file": "movie.md",
+        "wikidata_id": "Q11424",
+        "author": "Ecodrin"
+    },
+    {
+        "id": "WORKS/8.1_entertainment/montage",
+        "description": "О монтаже, его видах",
+        "lemmas": ["монтаж", "киномонтаж", "кадр"],
+        "name": "Монтаж в кино",
+        "file": "montage.md",
+        "wikidata_id": "Q237893",
+        "author": "Ecodrin"
+    },
+    {
+        "id": "WORKS/8.1_entertainment/special_effects",
+        "description": "О спецэффектах в кино, их видах и истории появления.",
+        "lemmas": ["спецэффект", "CGI", "stop-motion", "хромакей", "декорации"],
+        "name": "Спецэффекты в кино",
+        "file": "special_effects.md",
+        "wikidata_id": "Q8317",
+        "author": "Ecodrin"
+    }
+  ]
+}
